@@ -16,7 +16,9 @@
 
 - ### JS
 
+- ### ARCHITECTURE & DESIGN PATTERNS
 
+- ###ALGORITHMES
 
 
 
