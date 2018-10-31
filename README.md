@@ -9,6 +9,7 @@
   - [크로스 브라우징](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95.md)
   - [HTTP](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/HTTP.md)
   - [HTTPS](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/HTTPS.md)
+  - [앱의종류](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/%EC%95%B1%EC%9D%98%EC%A2%85%EB%A5%98.md)
 
 - ### HTML
 
@@ -18,7 +19,9 @@
 
 - ### JS
 
+- ### ARCHITECTURE & DESIGN PATTERNS
 
+- ###ALGORITHMES
 
 
 
@@ -35,5 +38,8 @@
   - 클로저
   - 비동기관련
   - prototype
-  - 양방향 바인딩
+  - 양방향 바인딩, 단방향 바인딩
   - 클라이언트 보안
+  - PWA
+  - prpl패턴
+  - 
