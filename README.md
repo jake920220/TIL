@@ -20,6 +20,9 @@ TODAY I LEARNED!
 
 - ### JS
 
+
+  - [분할 대입 (Destructuring Assignment)](<https://github.com/jake920220/TIL/blob/master/Javascript/destructuring-assignment.md>)
+
 - ### ARCHITECTURE & DESIGN PATTERNS
 
 - ###ALGORITHMES
