@@ -1,5 +1,6 @@
-# 지식저장용 레파지토리입니다.
+# TIL
 
+TODAY I LEARNED!
 
 
 - ### BASIC KNOWLEDGE
