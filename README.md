@@ -21,7 +21,8 @@ TODAY I LEARNED!
 - ### JS
 
 
-  - [분할 대입 (Destructuring Assignment)](<https://github.com/jake920220/TIL/blob/master/Javascript/destructuring-assignment.md>)
+    - [분할 대입 (Destructuring Assignment)](<https://github.com/jake920220/TIL/blob/master/Javascript/destructuring-assignment.md>)
+    - [엄격 모드 (Strict Mode)](https://github.com/jake920220/TIL/blob/master/Javascript/strict-mode.md)
 
 - ### ARCHITECTURE & DESIGN PATTERNS
 
