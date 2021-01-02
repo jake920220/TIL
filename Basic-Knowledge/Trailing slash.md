@@ -8,13 +8,7 @@
 
 
 
-![1609582321666](C:\Users\김준현\AppData\Roaming\Typora\typora-user-images\1609582321666.png)
-
-<center>주소 복사 전</center>
-
-![1609582477210](C:\Users\김준현\AppData\Roaming\Typora\typora-user-images\1609582477210.png)
-
-<center>주소 복사 후</center>
+네이버의 주소창에서 주소를 복사해서 검색창에 붙여넣기 해보면 이해가 빠를 것이다.
 
 
 
