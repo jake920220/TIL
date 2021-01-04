@@ -22,6 +22,9 @@ TODAY I LEARNED!
 
 - ### CSS
 
+
+  - [캐스케이딩과 상속](https://github.com/jake920220/TIL/blob/master/CSS/cascading.md)
+
 - ### JS
 
 
@@ -54,5 +57,3 @@ TODAY I LEARNED!
   - 양방향 바인딩, 단방향 바인딩
   - 클라이언트 보안
   - PWA
-  - prpl패턴
-  - 
