@@ -32,6 +32,10 @@ TODAY I LEARNED!
   - [엄격 모드 (Strict Mode)](https://github.com/jake920220/TIL/blob/master/Javascript/strict-mode.md)
 
 
+- ### React
+
+  - [가상 돔 (Virtual DOM)](https://github.com/jake920220/TIL/blob/master/React/virtual-dom.md)
+
 
 - ### ARCHITECTURE & DESIGN PATTERNS
 
