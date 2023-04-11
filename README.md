@@ -2,9 +2,6 @@
 
 TODAY I LEARNED!
 
-
-
-
 - ### BASIC KNOWLEDGE
 
   - [웹 표준이란?](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/%EC%9B%B9%ED%91%9C%EC%A4%80%EC%97%90%20%EB%8C%80%ED%95%B4.md)
@@ -22,28 +19,23 @@ TODAY I LEARNED!
 
 - ### CSS
 
-
   - [캐스케이딩과 상속](https://github.com/jake920220/TIL/blob/master/CSS/cascading.md)
 
 - ### JS
 
-
-  - [분할 대입 (Destructuring Assignment)](<https://github.com/jake920220/TIL/blob/master/Javascript/destructuring-assignment.md>)
+  - [분할 대입 (Destructuring Assignment)](https://github.com/jake920220/TIL/blob/master/Javascript/destructuring-assignment.md)
   - [엄격 모드 (Strict Mode)](https://github.com/jake920220/TIL/blob/master/Javascript/strict-mode.md)
-
 
 - ### React
 
   - [가상 돔 (Virtual DOM)](https://github.com/jake920220/TIL/blob/master/React/virtual-dom.md)
-
+  - [React StrictMode](https://blog-lino.dev/trouble-shooting/strict-mode-render-twice/)
 
 - ### ARCHITECTURE & DESIGN PATTERNS
 
   - [PRPL 패턴](https://github.com/jake920220/TIL/blob/master/Architecture&DesignPatterns/PRPL.md)
 
 - ###ALGORITHMES
-
-
 
 - ### 추후 정리해둘 내용들!
 
