@@ -4,7 +4,11 @@ TODAY I LEARNED!
 
 하루하루 새롭게 알게 되었거나 공부한 것들을 정리해서 올리는 공간입니다.
 
-- ### BASIC KNOWLEDGE
+--- 
+
+<br>
+
+- ## BASIC KNOWLEDGE
 
   - [웹 표준이란?](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/%EC%9B%B9%ED%91%9C%EC%A4%80%EC%97%90%20%EB%8C%80%ED%95%B4.md)
   - [웹 접근성](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/%EC%9B%B9%EC%A0%91%EA%B7%BC%EC%84%B1.md)
@@ -15,25 +19,41 @@ TODAY I LEARNED!
   - [REST-API](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/REST-API.md)
   - [Trailing slash](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/Trailing%20slash.md)
 
-- ### HTML
+<br>
+
+- ## HTML
 
   - [a태그 rel속성](https://github.com/jake920220/knowledge/blob/master/HTML/a%ED%83%9C%EA%B7%B8%20rel%EC%86%8D%EC%84%B1.md)
 
-- ### CSS
+<br>
+
+- ## CSS
 
   - [캐스케이딩과 상속](https://github.com/jake920220/TIL/blob/master/CSS/cascading.md)
 
-- ### JS
+<br>
+
+- ## JS
 
   - [분할 대입 (Destructuring Assignment)](https://github.com/jake920220/TIL/blob/master/Javascript/destructuring-assignment.md)
   - [엄격 모드 (Strict Mode)](https://github.com/jake920220/TIL/blob/master/Javascript/strict-mode.md)
   - [Null병합 연산자, Null병합 할당자](https://github.com/jake920220/TIL/blob/master/Javascript/nullish-coalescing.md)
+  - [거듭제곱 연산, 거듭제곱 할당](https://github.com/jake920220/TIL/blob/master/Javascript/exponentiation.md)
 
-- ### React
+<br>
+
+- ## React
 
   - [가상 돔 (Virtual DOM)](https://github.com/jake920220/TIL/blob/master/React/virtual-dom.md)
   - [React StrictMode](https://blog-lino.dev/trouble-shooting/strict-mode-render-twice/)
 
-- ### ARCHITECTURE & DESIGN PATTERNS
+<br>
+
+- ## ARCHITECTURE & DESIGN PATTERNS
 
   - [PRPL 패턴](https://github.com/jake920220/TIL/blob/master/Architecture&DesignPatterns/PRPL.md)
+
+
+<br>
+
+---
