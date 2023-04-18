@@ -18,6 +18,7 @@ TODAY I LEARNED!
   - [앱의종류](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/%EC%95%B1%EC%9D%98%EC%A2%85%EB%A5%98.md)
   - [REST-API](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/REST-API.md)
   - [Trailing slash](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/Trailing%20slash.md)
+  - [UX에 대해 공부한 내용](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/UX.md)
 
 <br>
 
