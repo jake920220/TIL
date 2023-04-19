@@ -40,6 +40,7 @@ TODAY I LEARNED!
   - [엄격 모드 (Strict Mode)](https://github.com/jake920220/TIL/blob/master/Javascript/strict-mode.md)
   - [Null병합 연산자, Null병합 할당자](https://github.com/jake920220/TIL/blob/master/Javascript/nullish-coalescing.md)
   - [거듭제곱 연산, 거듭제곱 할당](https://github.com/jake920220/TIL/blob/master/Javascript/exponentiation.md)
+  - [Javascript url scheme](https://github.com/jake920220/TIL/blob/master/Javascript/javascript-url-scheme.md)
 
 <br>
 
