@@ -20,6 +20,7 @@ TODAY I LEARNED!
   - [Trailing slash](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/Trailing%20slash.md)
   - [UX에 대해 공부한 내용](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/UX.md)
   - [DNS와 A레코드, CNAME](https://github.com/jake920220/TIL/blob/master/Basic-Knowledge/DNS%EC%99%80%20A%EB%A0%88%EC%BD%94%EB%93%9C%2C%20CNAME.md)
+  - [Syntactic Sugar](https://github.com/jake920220/TIL/blob/master/Basic-Knowledge/syntactic_sugar.md)
 
 <br>
 
