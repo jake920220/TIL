@@ -57,6 +57,7 @@ TODAY I LEARNED!
 
   - [가상 돔 (Virtual DOM)](https://github.com/jake920220/TIL/blob/master/React/virtual-dom.md)
   - [React StrictMode](https://blog-lino.dev/trouble-shooting/strict-mode-render-twice/)
+  - [버전 18 이후의 Render 변경점](https://github.com/jake920220/TIL/blob/master/React/render_in_ver18.md)
 
 <br>
 
