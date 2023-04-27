@@ -61,12 +61,6 @@ TODAY I LEARNED!
 
 <br>
 
-- ## Typescript
-
-  - [확정적 할당 어설션](https://github.com/jake920220/TIL/blob/master/Typescript/definite_assignment_assertions.md) 
-
-<br>
-
 - ## ARCHITECTURE & DESIGN PATTERNS
 
   - [PRPL 패턴](https://github.com/jake920220/TIL/blob/master/Architecture&DesignPatterns/PRPL.md)
