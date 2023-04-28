@@ -27,6 +27,7 @@ TODAY I LEARNED!
 - ## GIT
   
   - [allow-unrelated-histories](https://github.com/jake920220/knowledge/blob/master/git/allow_unrelated_histories.md)
+  - [Rebase](https://github.com/jake920220/knowledge/blob/master/git/rebase.md)
 
 <br>
 
