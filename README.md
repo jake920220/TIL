@@ -40,6 +40,7 @@ TODAY I LEARNED!
 - ## CSS
 
   - [캐스케이딩과 상속](https://github.com/jake920220/TIL/blob/master/CSS/cascading.md)
+  - [Normalize css & Reset css 차이](https://github.com/jake920220/TIL/blob/master/CSS/normalize_and_reset.md)
 
 <br>
 
