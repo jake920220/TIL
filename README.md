@@ -21,6 +21,7 @@ TODAY I LEARNED!
   - [UX에 대해 공부한 내용](https://github.com/jake920220/knowledge/blob/master/Basic-Knowledge/UX.md)
   - [DNS와 A레코드, CNAME](https://github.com/jake920220/TIL/blob/master/Basic-Knowledge/DNS%EC%99%80%20A%EB%A0%88%EC%BD%94%EB%93%9C%2C%20CNAME.md)
   - [Syntactic Sugar](https://github.com/jake920220/TIL/blob/master/Basic-Knowledge/syntactic_sugar.md)
+  - [node_module 커스터마이징한 것 프로젝트에 유지시키는 법](https://github.com/jake920220/TIL/blob/master/Basic-Knowledge/patch-package.md)
 
 <br>
 
