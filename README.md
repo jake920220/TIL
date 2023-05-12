@@ -67,6 +67,10 @@ TODAY I LEARNED!
 
 <br>
 
+- ## 용어
+  
+  - [딥링크](https://github.com/jake920220/TIL/blob/master/%EC%9A%A9%EC%96%B4/Deeplink.md) 
+
 - ## ARCHITECTURE & DESIGN PATTERNS
 
   - [PRPL 패턴](https://github.com/jake920220/TIL/blob/master/Architecture&DesignPatterns/PRPL.md)
