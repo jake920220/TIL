@@ -72,6 +72,7 @@ TODAY I LEARNED!
   
   - [딥링크](https://github.com/jake920220/TIL/blob/master/%EC%9A%A9%EC%96%B4/Deeplink.md)
   - [Guard Clause (가드문법)](https://github.com/jake920220/TIL/blob/master/%EC%9A%A9%EC%96%B4/guard-clause.md)
+  - [멱등성](https://github.com/jake920220/TIL/blob/master/%EC%9A%A9%EC%96%B4/%EB%A9%B1%EB%93%B1%EC%84%B1.md)
 
 - ## ARCHITECTURE & DESIGN PATTERNS
 
