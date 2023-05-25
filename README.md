@@ -65,6 +65,7 @@ TODAY I LEARNED!
   - [React StrictMode](https://blog-lino.dev/trouble-shooting/strict-mode-render-twice/)
   - [버전 18 이후의 Render 변경점](https://github.com/jake920220/TIL/blob/master/React/render_in_ver18.md)
   - [리액트 라우터 v6](https://github.com/jake920220/TIL/blob/master/React/router_v6.md)
+  - [forwardRef](https://github.com/jake920220/TIL/blob/master/React/forward_ref.md)
 
 <br>
 
