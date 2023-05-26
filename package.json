@@ -8,6 +8,6 @@
     "license": "MIT",
     "scripts": {
         "commit": "git add . && git commit -m",
-        "post": "git push -all"
+        "post": "git push --all"
     }
 }
