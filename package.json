@@ -1,0 +1,13 @@
+{
+    "name": "TIL",
+    "version": "1.0.0",
+    "description": "JunhyunKim TIL",
+    "main": "index.js",
+    "repository": "https://jake920220@github.com/jake920220/TIL.git",
+    "author": "jake920220 <linokim220@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "commit": "git add . && git commit -m",
+        "post": "git push -all"
+    }
+}
