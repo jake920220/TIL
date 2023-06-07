@@ -70,6 +70,12 @@ TODAY I LEARNED!
 
 <br>
 
+- ## Libraries and Frameworks
+
+  - [Redux Toolkit](https://github.com/jake920220/TIL/blob/master/libraries_and_frameworks/redux-toolkit.md)
+
+<br>
+
 - ## 용어
   
   - [딥링크](https://github.com/jake920220/TIL/blob/master/%EC%9A%A9%EC%96%B4/Deeplink.md)
