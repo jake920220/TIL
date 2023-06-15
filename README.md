@@ -74,6 +74,7 @@ TODAY I LEARNED!
 - ## Libraries and Frameworks
 
   - [Redux Toolkit](https://github.com/jake920220/TIL/blob/master/libraries_and_frameworks/redux-toolkit.md)
+  - [Redux Toolkit with immer](https://github.com/jake920220/TIL/blob/master/libraries_and_frameworks/redux-toolkit-with-immer.md)
 
 <br>
 
