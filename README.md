@@ -57,6 +57,7 @@ TODAY I LEARNED!
   - [거듭제곱 연산, 거듭제곱 할당](https://github.com/jake920220/TIL/blob/master/Javascript/exponentiation.md)
   - [Javascript url scheme](https://github.com/jake920220/TIL/blob/master/Javascript/javascript-url-scheme.md)
   - [Void](https://github.com/jake920220/TIL/blob/master/Javascript/void.md)
+  - [Navigator](https://github.com/jake920220/TIL/blob/master/Javascript/navigator.md)
 
 <br>
 
