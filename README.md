@@ -22,6 +22,7 @@ TODAY I LEARNED!
   - [DNS와 A레코드, CNAME](https://github.com/jake920220/TIL/blob/master/Basic-Knowledge/DNS%EC%99%80%20A%EB%A0%88%EC%BD%94%EB%93%9C%2C%20CNAME.md)
   - [Syntactic Sugar](https://github.com/jake920220/TIL/blob/master/Basic-Knowledge/syntactic_sugar.md)
   - [node_module 커스터마이징한 것 프로젝트에 유지시키는 법](https://github.com/jake920220/TIL/blob/master/Basic-Knowledge/patch-package.md)
+  - [선언형 프로그래밍 vs 명령형 프로그래밍](https://github.com/jake920220/TIL/blob/master/Basic-Knowledge/%EC%84%A0%EC%96%B8%ED%98%95_%EB%AA%85%EB%A0%B9%ED%98%95_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 
 <br>
 
