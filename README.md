@@ -60,6 +60,7 @@ TODAY I LEARNED!
   - [Javascript url scheme](https://github.com/jake920220/TIL/blob/master/Javascript/javascript-url-scheme.md)
   - [Void](https://github.com/jake920220/TIL/blob/master/Javascript/void.md)
   - [Navigator](https://github.com/jake920220/TIL/blob/master/Javascript/navigator.md)
+  - [Array.from()](https://github.com/jake920220/TIL/blob/master/Javascript/array_from.md)
 
 <br>
 
