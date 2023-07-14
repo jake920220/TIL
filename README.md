@@ -39,6 +39,7 @@ TODAY I LEARNED!
   - [a태그 rel속성](https://github.com/jake920220/knowledge/blob/master/HTML/a%ED%83%9C%EA%B7%B8%20rel%EC%86%8D%EC%84%B1.md)
   - [viewport](https://github.com/jake920220/knowledge/blob/master/HTML/viewport.md)
   - [display:none; vs 조건부 렌더링](https://github.com/jake920220/knowledge/blob/master/HTML/conditional_render_vs_display_none.md)
+  - [button의 타입들](https://github.com/jake920220/knowledge/blob/master/HTML/button-types.md)
 
 <br>
 
