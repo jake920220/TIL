@@ -50,6 +50,7 @@ TODAY I LEARNED!
   - [env function](https://github.com/jake920220/TIL/blob/master/CSS/env_function.md)
   - [gap](https://github.com/jake920220/TIL/blob/master/CSS/gap.md)
   - [end 와 flex-end의 차이 (start, flex-start)](https://github.com/jake920220/TIL/blob/master/CSS/flex-end_and_end.md)
+  - [aspect ratio](https://github.com/jake920220/TIL/blob/master/CSS/aspect_ratio.md)
 
 <br>
 
