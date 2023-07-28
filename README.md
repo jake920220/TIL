@@ -102,4 +102,10 @@ TODAY I LEARNED!
 
 <br>
 
+- ## TroubleShooting
+  
+  - [INSTALL_FAILED_VERSION_DOWNGRADE](https://github.com/jake920220/TIL/blob/master/TroubleShooting/install_failed_version_downgrade.md)
+
+<br>
+
 ---
