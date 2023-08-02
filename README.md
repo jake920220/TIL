@@ -64,6 +64,7 @@ TODAY I LEARNED!
   - [Void](https://github.com/jake920220/TIL/blob/master/Javascript/void.md)
   - [Navigator](https://github.com/jake920220/TIL/blob/master/Javascript/navigator.md)
   - [Array.from()](https://github.com/jake920220/TIL/blob/master/Javascript/array_from.md)
+  - [BOM](https://github.com/jake920220/TIL/blob/master/Javascript/bom.md)
 
 <br>
 
