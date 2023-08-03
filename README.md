@@ -79,6 +79,7 @@ TODAY I LEARNED!
   - [useCallback](https://github.com/jake920220/TIL/blob/master/React/useCallback.md)
   - [unstable_usePropmt unstable_useBlocker](https://github.com/jake920220/TIL/blob/master/React/unstable_usePrompt_useBlocker.md)
   - [error Boundaries](https://github.com/jake920220/TIL/blob/master/React/error_boundaries.md)
+  - [useNavigate](https://github.com/jake920220/TIL/blob/master/React/useNavigate.md)
 
 <br>
 
