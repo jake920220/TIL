@@ -108,6 +108,7 @@ TODAY I LEARNED!
 - ## TroubleShooting
   
   - [INSTALL_FAILED_VERSION_DOWNGRADE](https://github.com/jake920220/TIL/blob/master/TroubleShooting/install_failed_version_downgrade.md)
+  - [Rendered fewer hooks than expected Error](https://github.com/jake920220/TIL/blob/master/TroubleShooting/rendered_fewer_hooks_than_expected.md)
 
 <br>
 
